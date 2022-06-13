@@ -1,0 +1,49 @@
+.form {
+  width: 350px;
+  height: 50vh;
+  margin: 2rem auto;
+  color: #383838;
+}
+
+.form p {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.header {
+  font-size: 1.5rem;
+  margin-bottom: 2.3rem;
+}
+
+.input {
+  width: 350px;
+  height: 35px;
+  margin-top: 0.2rem;
+  padding-left: 0.5rem;
+  border-radius: 2px;
+  border: 1px solid #777373;
+}
+
+.input:focus {
+  border: 2px solid #0071c2;
+  outline: none;
+}
+
+.btn {
+  margin-top: 1rem;
+  width: 350px;
+  height: 45px;
+  color: #fff;
+  background-color: #0071c2;
+  border: 1px solid #0071c2;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 2px;
+  font-family: BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Helvetica,
+    Arial, sans-serif;
+  font-weight: 500;
+}
+
+.btn:hover {
+  background-color: #044777;
+}
